@@ -1,13 +1,17 @@
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #000;
   margin: 0;
   padding: 20px;
+
 }
 
 .container {
-  box-sizing: border-box;
-  width: 328px;
+  width: 350px;
   margin-bottom: 40px;
 }
 
